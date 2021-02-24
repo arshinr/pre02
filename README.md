@@ -3,7 +3,7 @@ Sim - Simulation of Mobility and Migration for Fog Computing
 
 
 
-## Running MobFogSim
+## Running Sim
 
 Building your simulation
 *  First step: Follow the following steps
